@@ -7,4 +7,4 @@
 	url = https://github.com/cran/MDSS
 [submodule "WARN"]
 	path = WARN
-	url = https://github.com/cran/WARN
+	url = https://github.com/tsutatsuta/warn
